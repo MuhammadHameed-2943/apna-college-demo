@@ -1,3 +1,3 @@
 # apna-college-demo
 owner hameed
-student of software eng
+student of software eng(hello world)
